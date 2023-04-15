@@ -44,7 +44,7 @@
 
 | 주차    | 주제                              |
 | ------ | -------------------------------- |
-| 1 주차  | Annotation                      |
+| 1 주차  | [Annotation](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Annotation.md)                      |
 | 2 주차  | Collection framework            |
 | 3 주차  | 일급 컬렉션                         |
 | 4 주차  | Generic                          |
