@@ -45,7 +45,7 @@
 | 주차    | 주제                              |
 | ------ | -------------------------------- |
 | 1 주차  | [Annotation](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Annotation.md)                      |
-| 2 주차  | Collection framework            |
+| 2 주차  | [Collection_framework]()            |
 | 3 주차  | 일급 컬렉션                         |
 | 4 주차  | Generic                          |
 | 5 주차  | JVM의 구조와 JAVA의 실행방식          |
