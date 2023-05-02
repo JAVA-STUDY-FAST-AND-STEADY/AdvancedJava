@@ -34,7 +34,7 @@
 <br/>
 
 ## ❗️ Commit Convention ❗️
-- `규칙1` 각각의 이름으로 된 폴더를 생성하고, 그 안에 챕터 별로 정리를 한다.
+- `규칙1` JAVA 폴더에 자신의 주차에 맞는 파일명.md 파일을 제출
 - `규칙2` "YYYY-MM-DD 챕터이름" -> "2023-03-26 동작 파라미터화"
 
 
@@ -44,9 +44,9 @@
 
 | 주차    | 주제                              |
 | ------ | -------------------------------- |
-| 1 주차  | Annotation                      |
-| 2 주차  | Collection framework            |
-| 3 주차  | 일급 컬렉션                         |
+| 1 주차  | [Annotation](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Annotation.md)                      |
+| 2 주차  | [Collection_framework](https://github.com/movingone/AdvancedJava/blob/main/Java/Collection_framework.md)            |
+| 3 주차  | [일급 컬렉션](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/First_Class_Colloection.md)                         |
 | 4 주차  | Generic                          |
 | 5 주차  | JVM의 구조와 JAVA의 실행방식          |
 | 6 주차  | Interface와 Abstract class의 차이점                 |
