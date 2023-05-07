@@ -9,6 +9,7 @@
     <td align="center"><a href="https://github.com/wonholim"><img src="https://github.com/wonholim.png" width="100px;" alt=""/><br /><sub><b>wonholim</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/movingone"><img src="https://github.com/movingone.png" width="100px;" alt=""/><br /><sub><b>movingone</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/smileyr99"><img src="https://github.com/smileyr99.png" width="100px;" alt=""/><br /><sub><b>smileyr99</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/soyesenna"><img src="https://github.com/soyesenna.png" width="100px;" alt=""/><br /><sub><b>soyesenna</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -47,7 +48,7 @@
 | 1 주차  | [Annotation](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Annotation.md)                      |
 | 2 주차  | [Collection_framework](https://github.com/movingone/AdvancedJava/blob/main/Java/Collection_framework.md)            |
 | 3 주차  | [일급 컬렉션](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/First_Class_Colloection.md)                         |
-| 4 주차  | Generic                          |
+| 4 주차  | [Generic](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Generic.md)                          |
 | 5 주차  | JVM의 구조와 JAVA의 실행방식          |
 | 6 주차  | Interface와 Abstract class의 차이점                 |
 | 7 주차  | Class와 객체                       |

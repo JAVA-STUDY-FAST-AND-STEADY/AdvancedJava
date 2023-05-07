@@ -3,8 +3,11 @@
 - [x] 1. Generic의 정의
 - [x] 2. Generic의 사용법
 - [x] 3. T, E, K, V, N ???
+<<<<<<< HEAD
 - [x] 4. Generic 와일드 카드
 
+=======
+>>>>>>> b7fd1954265c04162025456366f8420195cb058e
 
 <br>
 <br>
@@ -179,6 +182,7 @@ public class MyArrayList2<짜장> {
 ```
 
  이렇게 사용이 가능한 이유는 MyArrayList2를 생성할 때 `<Integer>`로 선언을 하면, 컴파일시에 MyArrayList2`<짜장>`에서 `짜장` -> Integer로 변환이 되기 때문이다.
+<<<<<<< HEAD
 
 <br><br>
 
@@ -212,3 +216,5 @@ public void someMethod(List<? extends A> list) { ... } // A, B, C
 <br><br>
 
 
+=======
+>>>>>>> b7fd1954265c04162025456366f8420195cb058e
