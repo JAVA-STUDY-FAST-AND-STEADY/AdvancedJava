@@ -50,7 +50,7 @@
 | 3 주차  | [일급 컬렉션](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/First_Class_Colloection.md)                         |
 | 4 주차  | [Generic](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Generic.md)                          |
 | 5 주차  | JVM의 구조와 JAVA의 실행방식          |
-| 6 주차  | Interface와 Abstract class의 차이점                 |
+| 6 주차  | [Interface와 Abstract class의 차이점](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Interface%EC%99%80%20Abstract%20class%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)                 |
 | 7 주차  | Class와 객체                       |
 | 8 주차  | 직렬화                     |
 | 9 주차  | SOLID               |
