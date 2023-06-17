@@ -4,7 +4,6 @@
 - [x] 2. Abstract class란?
 - [x] 3. Interface와 Abstract class의 차이점은?
 - [x] 4. 결론
-
 <br><br>
 
 ### 1. Interface란?
