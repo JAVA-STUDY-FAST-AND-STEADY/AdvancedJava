@@ -53,7 +53,7 @@
 | 7 주차  | [Class와 객체](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Class%EC%99%80%20%EA%B0%9D%EC%B2%B4.md)                       |
 | 8 주차  | [직렬화](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Serialization.md)                     |
 | 9 주차  | [SOLID](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/SOLID.md)               |
-| 10 주차 | 객체지향 패러다임           |
+| 10 주차 | [객체지향 패러다임](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84.md)           |
 | 11 주차 | Try With Resource           |
 | 12 주차 | 자바의 동시성 이슈                |
 | 13 주차 | 강한 결합과 느슨한 결합                        |
