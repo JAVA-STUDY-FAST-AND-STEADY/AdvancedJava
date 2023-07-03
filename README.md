@@ -54,7 +54,7 @@
 | 8 주차  | [직렬화](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/Serialization.md)                     |
 | 9 주차  | [SOLID](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/SOLID.md)               |
 | 10 주차 | [객체지향 패러다임](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84.md)           |
-| 11 주차 | Try With Resource           |
+| 11 주차 | [Try With Resource](https://github.com/JAVA-STUDY-FAST-AND-STEADY/AdvancedJava/blob/main/Java/try-with-resource.md)           |
 | 12 주차 | 자바의 동시성 이슈                |
 | 13 주차 | 강한 결합과 느슨한 결합                        |
 | 14 주차 | Checked Exception과 Unchecked Exception                     |
